@@ -6,9 +6,7 @@
 
 - This is the club I belong to
 
-  Twitter
-
-  [KUeST](https://twitter.com/kanazawaesports)
+  Twitter[KUeST](https://twitter.com/kanazawaesports)
 
 <!---
 ykmtsd/ykmtsd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
