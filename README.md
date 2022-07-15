@@ -9,6 +9,7 @@
   **VALORANT, R6S, Minecraft** etc.
 
 - This is the e-sports club I belong to
+  
   I usually play games with them
 
   Twitter URL [**KUeST**](https://twitter.com/kanazawaesports)
