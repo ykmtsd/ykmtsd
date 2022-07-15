@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @ykmtsd
-- 👀 I’m interested in coding with TypeScript
-- 🌱 I’m currently learning C and Python
+- Hi, I’m @ykmtsd
+- I'm Japanese
+- I’m interested in coding with TypeScript
+- I’m currently learning C and Python
 - I am a student at Kanazawa University
 - I like playing games
+
   VALORANT, R6S, Minecraft etc.
 
 - This is the club I belong to
