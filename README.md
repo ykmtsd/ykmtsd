@@ -5,6 +5,7 @@
 - I like playing games
 
 - This is the club I belong to
+
 Twitter
 
 [KUeST](https://twitter.com/kanazawaesports)
